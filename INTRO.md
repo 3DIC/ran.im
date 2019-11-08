@@ -2,9 +2,9 @@
 
 > The URL of this webstie is [https://he.ran.im](https://he.ran.im)
 
-Hi there! I'm Ran He. I am now a senior engineer at Component Technology Development Department in Huawei Technologies Co., Ltd. 
+Hi there! I'm Ran He. I am now a senior engineer at HiSilicon Platform and Key Technology Department in Huawei Technologies Co., Ltd. 
 I earned my Ph.D. in 2016 from the Department of Precision Engineering (Prof. T. Suga's group) of the University of Tokyo, Tokyo, Japan.
-From 2016 to 2018, I worked as a researcher at the University of Tokyo, where I was involved with research of low-temperature bonding for semiconductor integration and advanced packaging. You can find more about me on the following links:
+From 2016 to 2018, I worked as a researcher at the University of Tokyo, where I was involved with research of low-temperature bonding for semiconductor integration, 3D IC, and advanced packaging. You can find more about me on the following links:
 
 * 📧 Ĕ-mail: [ran.he@ieee.org](mailto:ran.he@ieee.org)
 * [My resume](https://he.ran.im/resume.html)
